@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab_Assessment</string>
+    <string name="myself">Hi, there I am Shubhankar from VIT-AP CSE Department. I am currently pursuing my 3rd year B.Tech. Hoping to complete 2022 with a bang !!
+    </string>
+    <string name="content">Nowadays, applications are not just made for mobile devices but also for e-readers, gadgets, and other Internet-connected devices. There is a vast number of available Android devices, and as you have probably realized, apps are becoming smarter as well.
+QA professionals often test such features using browser-independent and cross-platform software testing, which makes use of machine learning (ML) and artificial intelligence (AI).
+Using machine learning, we can improve product performance and reduce maintenance costs. Software testing can be made more efficient by using AI-powered tools as well.
+Soon, you will learn more about these technologies, along with five other trending Android development trends.
+Google I/O 2016 was the first time Instant Apps were unveiled, but they are currently only available on Android 5.0 Lollipop devices. As the name implies, users can run these apps instantly without having to install them.
+While instant Android apps are still relatively uncommon, their popularity is steadily growing.
+They can be accessed straight from the cloud and are just as easy to navigate as websites. Consequently, these apps do not consume extra storage space on your phone.
+As users demand real-time information, many developers are keen on using location-based features to improve their experience further.
+The market for beacons has been around since 2013. Bluetooth and WiFi-enabled devices within range of beacons can use them to receive signals and offer services to different users.
+Business owners with android mobile applications, such as dining establishments and hotels, get a lot out of this technology.
+    </string>
+</resources>
